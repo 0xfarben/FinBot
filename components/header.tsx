@@ -20,7 +20,7 @@ async function UserOrLogin() {
       <Link href="/" rel="nofollow" className="flex items-center group">
         <div className="relative">
           <Image
-            src="/finforesight-logo.png"
+            src="/images/finforesight-logo.png"
             alt="FinForesight Logo"
             width={50}
             height={50}
