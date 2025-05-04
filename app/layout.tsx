@@ -51,7 +51,9 @@ export const metadata = {
     siteName: 'FinBot by FinForesight',
     images: [
       {
-        url: 'https://chat.finforesight.dev/images/opengraph-image.png',
+        // url: 'https://iili.io/3NJppYg.png',
+        url: 'https://iili.io/3NFziKP.png',
+        // url: 'https://chat.finforesight.dev/images/opengraph-image.png',
         width: 1200,
         height: 630,
         alt: 'FinBot AI analyzing stock market data with interactive charts',
@@ -64,7 +66,10 @@ export const metadata = {
     creator: '@finforesight',
     title: 'FinBot - AI-Powered Financial Analysis Assistant',
     description: 'Real-time market insights and stock analysis powered by AI',
-    images: ['https://chat.finforesight.dev/images/twitter-image.png'],
+    // images: ['https://iili.io/3NJppYg.png'],
+    images: ['https://iili.io/3NFziKP.png'],
+    
+    // images: ['https://chat.finforesight.dev/images/twitter-image.png'],
   },
   robots: {
     index: true,
