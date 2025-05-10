@@ -1,9 +1,11 @@
 # FinBot - Financial Analysis Interface
 
 A modern, AI-powered financial analysis interface built with Next.js and TypeScript. FinBot provides a user-friendly interface for interacting with financial data and analysis tools.
-![FinForesight-3d-logo](https://github.com/user-attachments/assets/7c62bbb2-6a17-41e2-ba40-85911946b5eb)
 
-<img src="https://github.com/user-attachments/assets/7c62bbb2-6a17-41e2-ba40-85911946b5eb" alt="FinBot Screenshot" width="600"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c62bbb2-6a17-41e2-ba40-85911946b5eb" alt="FinBot_picture" width="650"/>
+</p>
+<!-- <img src="https://github.com/user-attachments/assets/7c62bbb2-6a17-41e2-ba40-85911946b5eb" alt="FinBot Screenshot" width="600"/> -->
 
 ## 🚀 Features
 
