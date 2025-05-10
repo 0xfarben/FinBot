@@ -44,7 +44,7 @@ pnpm install
 3. Set up environment variables:
 Create a `.env` file in the root directory with:
 ```env
-OPENAI_API_KEY=your-api-key
+GROQ_API_KEY=your-api-key
 ```
 
 ## 🏗️ Project Structure
